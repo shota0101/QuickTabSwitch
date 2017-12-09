@@ -21,10 +21,10 @@
   "commands": {
     "_execute_browser_action": {
       "suggested_key": {
-        "default": "Ctrl+Shift+X",
-        "windows": "Ctrl+Shift+X",
-        "mac": "Ctrl+Shift+X",
-        "linux": "Ctrl+Shift+X"
+        "default": "Ctrl+Shift+K",
+        "windows": "Ctrl+Shift+K",
+        "mac": "Ctrl+Shift+K",
+        "linux": "Ctrl+Shift+K"
       }
     }
   }
