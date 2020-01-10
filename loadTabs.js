@@ -1,7 +1,8 @@
 window.onload = function() {
   chrome.tabs.query({}, function(tabs){
 
-    var keies = '1234567890asdfghjklqwertyuiopzxcvbnmASDFGHJKLQWERTYUIOPZXCVBNM';
+    // var keies = '1234567890asdfghjklqwertyuiopzxcvbnmASDFGHJKLQWERTYUIOPZXCVBNM';
+    var keies = 'asdfghjklqwertyuiopzxcvbnmASDFGHJKLQWERTYUIOPZXCVBNM1234567890';
     var windowIds = [];
     var keyAssigns = [];
     var elements = '';
